@@ -1,0 +1,18 @@
+{
+    "name": "OddCommon.Network.Runtime",
+    "references": [
+        "GUID:16eea3414a0614cc895a8b9cb73f8b79",
+        "GUID:beba951124cea4468ac5e99e96ff6382",
+        "GUID:fe2adc2a681e441b490a9272a3d68bf1",
+        "GUID:9069ac25d95ca17448a247f3bb1c769f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
