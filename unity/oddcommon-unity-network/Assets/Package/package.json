@@ -1,0 +1,10 @@
+{
+     "name": "com.oddcommon.network",
+     "version": "1.0.0",
+     "displayName": "OddCommon Network",
+     "description": "This package provides Unity scripts/classes for network connection management that can be used in OddCommon Unity projects.",
+     "unity": "2019.4",
+     "dependencies": { "com.oddcommon.base":"2.0.0", "com.oddcommon.messaging":"2.0.0", "com.oddcommon.lifecycle":"1.0.0" },
+     "keywords": ["OddCommon", "Network", "Management"],
+     "author": { "name": "Ellis Talley", "email": "ellis@oddcommon.com", "url": "http://oddcommon.com" }
+ }

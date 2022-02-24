@@ -1,0 +1,17 @@
+{
+    "name": "OddCommon.Network.Runtime.Tests",
+    "references": [
+        "GUID:16eea3414a0614cc895a8b9cb73f8b79",
+        "GUID:beba951124cea4468ac5e99e96ff6382",
+        "GUID:dcb0c96c3a81546c8b0d5032166d519c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
