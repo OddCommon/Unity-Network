@@ -6,5 +6,5 @@
      "unity": "2019.4",
      "dependencies": { "com.oddcommon.base":"2.0.0", "com.oddcommon.messaging":"2.0.0", "com.oddcommon.lifecycle":"1.0.0" },
      "keywords": ["OddCommon", "Network", "Management"],
-     "author": { "name": "Ellis Talley", "email": "ellis@oddcommon.com", "url": "http://oddcommon.com" }
+     "author": { "name": "OddCommon", "email": "ellis@oddcommon.com", "url": "http://oddcommon.com" }
  }
